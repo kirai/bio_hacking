@@ -1,0 +1,8 @@
+# Data Source
+ http://hmpdacc.org/HMRGD/
+
+# File formats:
+- Assembly nucleotide fasta (ASM)
+- Protein multifasta (PEP)
+- Coding sequence nucleoitide multifasta (CDS)
+- Genbank format (GBK)
