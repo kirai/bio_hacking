@@ -1,8 +1,21 @@
-# Data Source
+
+#DSM 2374 and DSM 2375
+
+## Data Source
  http://hmpdacc.org/HMRGD/
 
-# File formats:
+## File formats:
 - Assembly nucleotide fasta (ASM)
 - Protein multifasta (PEP)
 - Coding sequence nucleoitide multifasta (CDS)
 - Genbank format (GBK)
+
+
+# AEKU01
+
+## Data source
+   https://www.ncbi.nlm.nih.gov/Traces/wgs/?val=AEKU01&display=contigs&page=1
+
+## File Formats:
+- Full genome in FASTA format
+- Folder with tagged contigs made by Snapgene
