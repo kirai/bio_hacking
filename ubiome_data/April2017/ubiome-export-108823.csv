@@ -1,0 +1,312 @@
+tax_name,tax_rank,count,count_norm,taxon,parent
+root,root,57584,1005869,1,0
+Bacteria,superkingdom,57248,1000000,2,131567
+Campylobacter,genus,89,1554,194,72294
+Enterobacteriaceae,family,86,1502,543,91347
+Enterobacter,genus,14,244,547,543
+Kluyvera,genus,14,244,579,543
+Pasteurellaceae,family,9,157,712,135625
+Haemophilus,genus,9,157,724,712
+Haemophilus parainfluenzae,species,9,157,729,724
+Bacteroidaceae,family,17010,297128,815,171549
+Bacteroides,genus,17010,297128,816,815
+Bacteroides uniformis,species,215,3755,820,816
+Bacteroides vulgatus,species,5745,100352,821,816
+Parabacteroides distasonis,species,1897,33136,823,375288
+Campylobacter ureolyticus,species,2,34,827,194
+Butyrivibrio,genus,354,6183,830,186803
+Fibrobacter,genus,7,122,832,204431
+Porphyromonas,genus,240,4192,836,171551
+Prevotella,genus,550,9607,838,171552
+Roseburia,genus,3222,56281,841,186803
+Fusobacterium,genus,2,34,848,203492
+Faecalibacterium prausnitzii,species,124,2166,853,216851
+Fusobacterium periodonticum,species,2,34,860,848
+Desulfovibrio,genus,1624,28367,872,194924
+Desulfovibrio piger,species,1584,27669,901,872
+Megasphaera,genus,13,227,906,31977
+Bacteroidetes,phylum,23610,412416,976,68336
+Proteobacteria,phylum,2721,47530,1224,2
+Gammaproteobacteria,class,95,1659,1236,1224
+Firmicutes,phylum,27049,472488,1239,2
+Sarcina,genus,1210,21136,1266,31979
+Micrococcaceae,family,5,87,1268,85006
+Streptococcaceae,family,61,1065,1300,186826
+Streptococcus,genus,48,838,1301,1300
+Bacillales,order,21,366,1385,91061
+Bacillus,genus,21,366,1386,186817
+Clostridium,genus,225,3930,1485,31979
+Erysipelatoclostridium ramosum,species,319,5572,1547,1505663
+Lactobacillus,genus,181,3161,1578,33958
+Corynebacteriaceae,family,249,4349,1653,85007
+Actinomyces,genus,4,69,1654,2049
+Bifidobacterium,genus,9,157,1678,31953
+Corynebacterium,genus,249,4349,1716,1653
+Corynebacterium sp.,species,32,558,1720,1716
+Actinobacteria,class,1331,23249,1760,201174
+Actinomycetales,order,274,4786,2037,85003
+Actinomycetaceae,family,12,209,2049,85005
+Mobiluncus,genus,4,69,2050,279916
+Mobiluncus mulieris,species,4,69,2052,2050
+Archaea,superkingdom,336,5869,2157,131567
+Methanobacteriales,order,336,5869,2158,183925
+Methanobacteriaceae,family,336,5869,2159,2158
+Methanobrevibacter,genus,302,5275,2172,2159
+Methanobrevibacter smithii,species,302,5275,2173,2172
+Methanosphaera,genus,34,593,2316,2159
+Methanosphaera stadtmanae,species,34,593,2317,2316
+Peptococcus,genus,11,192,2740,186807
+Peptococcus niger,species,2,34,2741,2740
+Lachnospira,genus,125,2183,28050,186803
+Lachnospira pectinoschiza,species,57,995,28052,28050
+Alistipes putredinis,species,735,12838,28117,239759
+Odoribacter splanchnicus,species,459,8017,28118,283168
+Prevotella buccalis,species,550,9607,28127,838
+Cronobacter sakazakii,species,58,1013,28141,413496
+Alphaproteobacteria,class,616,10760,28211,1224
+Betaproteobacteria,class,191,3336,28216,1224
+Deltaproteobacteria,class,1730,30219,28221,68525
+Euryarchaeota,phylum,336,5869,28890,2157
+Veillonella,genus,4,69,29465,31977
+Epsilonproteobacteria,class,89,1554,29547,68525
+Bifidobacteriaceae,family,9,157,31953,85004
+Mollicutes,class,119,2078,31969,544448
+Veillonellaceae,family,64,1117,31977,909929
+Clostridiaceae,family,1795,31354,31979,186802
+Fusobacteria,phylum,2,34,32066,2
+Rothia,genus,5,87,32207,1268
+Phascolarctobacterium,genus,690,12052,33024,909930
+Anaerococcus tetradius,species,8,139,33036,165779
+Lactobacillaceae,family,1309,22865,33958,186826
+Acetivibrio,genus,7,122,35829,541000
+Bilophila,genus,104,1816,35832,194924
+Dermabacter,genus,5,87,36739,85020
+Dermabacter hominis,species,5,87,36740,36739
+Dorea formicigenerans,species,130,2270,39486,189330
+Veillonella atypica,species,4,69,39777,29465
+Dialister,genus,40,698,39948,31977
+Sutterella,genus,84,1467,40544,995019
+Bifidobacterium sp.,species,9,157,41200,1678
+Rhodospirillaceae,family,616,10760,41295,204441
+Rothia mucilaginosa,species,5,87,43675,32207
+Sporobacter,genus,2,34,44748,541000
+Granulicatella adiacens,species,5,87,46124,117563
+Pseudobutyrivibrio,genus,759,13258,46205,186803
+Parabacteroides merdae,species,331,5781,46503,375288
+Bacteroides caccae,species,448,7825,47678,816
+Lactobacillus crispatus,species,11,192,47770,1578
+Verrucomicrobiales,order,2397,41870,48461,203494
+Chlamydiae/Verrucomicrobia group,superphylum,2397,41870,51290,2
+Anaerofilum,genus,5,87,52784,541000
+Holdemania,genus,12,209,61170,128827
+Holdemania filiformis,species,9,157,61171,61170
+Corynebacterium ulcerans,species,49,855,65058,1716
+Fibrobacteres,phylum,7,122,65842,131550
+Thermoanaerobacterales,order,19,331,68295,186801
+Bacteroidetes/Chlorobi group,superphylum,23610,412416,68336,2
+delta/epsilon subdivisions,subphylum,1819,31774,68525,1224
+Campylobacteraceae,family,89,1554,72294,213849
+Kluyvera georgiana,species,14,244,73098,579
+Verrucomicrobia,phylum,2397,41870,74201,51290
+Collinsella aerofaciens,species,141,2462,74426,102106
+Campylobacter hominis,species,87,1519,76517,194
+Burkholderiales,order,189,3301,80840,28216
+Comamonadaceae,family,105,1834,80864,80840
+Coriobacteriaceae,family,1048,18306,84107,255727
+Slackia,genus,13,227,84108,84107
+Eggerthella,genus,27,471,84111,84107
+Coriobacteridae,subclass,1048,18306,84998,1760
+Coriobacteriales,order,1048,18306,84999,84998
+Actinobacteridae,subclass,283,4943,85003,1760
+Bifidobacteriales,order,9,157,85004,85003
+Actinomycineae,suborder,12,209,85005,2037
+Micrococcineae,suborder,13,227,85006,2037
+Corynebacterineae,suborder,249,4349,85007,2037
+Dermabacteraceae,family,5,87,85020,85006
+Microbacteriaceae,family,3,52,85023,85006
+Bacteroides acidifaciens,species,28,489,85831,816
+Mogibacterium,genus,70,1222,86331,543314
+Dorea longicatena,species,19,331,88431,189330
+Bacilli,class,1557,27197,91061,1239
+Enterobacteriales,order,86,1502,91347,1236
+Bacteroides sp. AR20,species,7864,137367,93974,816
+Bacteroides sp. AR29,species,189,3301,93975,816
+Papillibacter,genus,6,104,100175,541000
+Coprobacillus,genus,10,174,100883,128827
+Catenibacterium mitsuokai,species,177,3091,100886,135858
+Collinsella,genus,703,12279,102106,84107
+Pseudoflavonifractor capillosus,species,1288,22498,106588,1017280
+Granulicatella,genus,5,87,117563,186828
+Oscillospira,genus,242,4227,119852,541000
+Erysipelotrichaceae,family,1190,20786,128827,526525
+Fibrobacteres/Acidobacteria group,superphylum,7,122,131550,2
+cellular organisms,no_rank,57584,1005869,131567,1
+Pasteurellales,order,9,157,135625,1236
+Catenibacterium,genus,319,5572,135858,128827
+Finegoldia,genus,134,2340,150022,543310
+Turicibacter sanguinis,species,74,1292,154288,191303
+Peptoniphilus,genus,284,4960,162289,543310
+Anaerococcus,genus,94,1641,165779,543310
+Roseburia intestinalis,species,2,34,166486,841
+Thalassospira,genus,574,10026,168934,41295
+Bacteroidales,order,23350,407874,171549,200643
+Rikenellaceae,family,1216,21240,171550,171549
+Porphyromonadaceae,family,4198,73330,171551,171549
+Prevotellaceae,family,618,10795,171552,171549
+Shuttleworthia,genus,62,1083,177971,186803
+Methanobacteria,class,336,5869,183925,28890
+Varibaculum,genus,4,69,184869,2049
+Varibaculum cambriense,species,4,69,184870,184869
+Clostridia,class,23532,411053,186801,1239
+Clostridiales,order,23480,410145,186802,186801
+Lachnospiraceae,family,11968,209055,186803,186802
+Peptostreptococcaceae,family,1256,21939,186804,186802
+Eubacteriaceae,family,6,104,186806,186802
+Peptococcaceae,family,34,593,186807,186802
+unclassified Clostridiales,no_rank,2753,48089,186813,186802
+Thermoanaerobacteraceae,family,19,331,186814,68295
+Bacillaceae,family,21,366,186817,1385
+Lactobacillales,order,1509,26358,186826,91061
+Carnobacteriaceae,family,5,87,186828,186826
+Gelria,genus,19,331,189326,186814
+Dorea,genus,272,4751,189330,186803
+Turicibacter,genus,81,1414,191303,128827
+Desulfovibrionaceae,family,1730,30219,194924,213115
+Bacteroidia,class,23610,412416,200643,976
+Actinobacteria,phylum,1331,23249,201174,2
+Fusobacteriia,class,2,34,203490,32066
+Fusobacteriales,order,2,34,203491,203490
+Fusobacteriaceae,family,2,34,203492,203491
+Verrucomicrobiae,class,2397,41870,203494,74201
+Verrucomicrobiaceae,family,2397,41870,203557,48461
+Fibrobacteria,class,7,122,204430,65842
+Fibrobacteraceae,family,7,122,204431,218872
+Rhodospirillales,order,616,10760,204441,28211
+Rhodocyclales,order,2,34,206389,28216
+Anaerostipes,genus,135,2358,207244,186803
+Desulfovibrionales,order,1730,30219,213115,28221
+Campylobacterales,order,89,1554,213849,29547
+Subdoligranulum variabile,species,8,139,214851,292632
+Oscillospiraceae,family,146,2550,216572,186802
+Faecalibacterium,genus,1441,25171,216851,541000
+Fibrobacterales,order,7,122,218872,204430
+Peptoniphilus sp. 2002-2300004,species,140,2445,226531,162289
+Fastidiosipila,genus,18,314,236752,541000
+Alistipes,genus,1216,21240,239759,171550
+Akkermansia,genus,2397,41870,239934,203557
+Akkermansia muciniphila,species,2333,40752,239935,239934
+Hespellia,genus,97,1694,241189,186803
+Anaerotruncus,genus,1253,21887,244127,541000
+Marvinbryantia,genus,126,2200,248744,186803
+Pseudoclavibacter,genus,3,52,255204,85023
+Coriobacterineae,suborder,1048,18306,255727,84999
+Alistipes massiliensis,species,148,2585,265312,239759
+Pseudoclavibacter bifida,species,3,52,272239,255204
+Mobiluncus/Falcivibrio group,no_rank,4,69,279916,2049
+Odoribacter,genus,520,9083,283168,171551
+Subdoligranulum,genus,355,6201,292632,541000
+Flavonifractor plautii,species,8,139,292800,946234
+Roseburia hominis,species,35,611,301301,841
+Dialister propionicifaciens,species,40,698,308994,39948
+Bacteroides finegoldii,species,426,7441,338188,816
+Lactonifactor longoviformis,species,2,34,341220,420345
+Roseburia inulinivorans,species,26,454,360807,841
+Peptoniphilus sp. gpac018A,species,71,1240,361493,162289
+Bacteroides sp. XB12B,species,41,716,371599,816
+Parabacteroides,genus,2342,40909,375288,171551
+Barnesiella,genus,557,9729,397864,171551
+Anaerococcus murdochii,species,6,104,411577,165779
+Cronobacter,genus,58,1013,413496,543
+Lactonifactor,genus,4,69,420345,31979
+Moryella,genus,247,4314,437755,186803
+Adlercreutzia equolifaciens,species,165,2882,446660,447020
+Adlercreutzia,genus,165,2882,447020,84107
+Alistipes sp. EBA6-25cl2,species,109,1903,447027,239759
+Paraprevotella xylaniphila,species,68,1187,454155,577309
+Oscillibacter,genus,24,419,459786,216572
+Alistipes sp. NML05A004,species,24,419,478202,239759
+Barnesiella intestinihominis,species,545,9519,487174,397864
+Porphyromonas bennonis,species,47,820,501496,836
+Butyricicoccus pullicaecorum,species,4,69,501571,580596
+Murdochiella asaccharolytica,species,210,3668,507844,1161127
+Synergistetes,phylum,12,209,508458,2
+Cloacibacillus,genus,10,174,508459,649777
+Cloacibacillus evryensis,species,2,34,508460,508459
+Erysipelotrichia,class,1204,21031,526524,1239
+Erysipelotrichales,order,1204,21031,526525,526524
+Blautia glucerasea,species,1708,29835,536633,572511
+Bacteroides sp. DJF_B097,species,324,5659,537274,816
+Clostridiales incertae sedis,no_rank,683,11930,538999,186802
+Ruminococcaceae,family,4056,70849,541000,186802
+Clostridiales Family XI. Incertae Sedis,family,512,8943,543310,538999
+Clostridiales Family XIII. Incertae Sedis,family,165,2882,543314,538999
+Tenericutes,phylum,119,2078,544448,2
+Butyricimonas virosa,species,18,314,544645,574697
+Anaerotruncus sp. NML 070203,species,2,34,545498,244127
+Coprobacillus sp. D6,species,10,174,556262,100883
+Blautia,genus,5172,90343,572511,186803
+Butyricimonas,genus,444,7755,574697,171551
+Paraprevotella,genus,68,1187,577309,171552
+Enterorhabdus,genus,126,2200,580024,84107
+Butyricicoccus,genus,7,122,580596,31979
+Hydrogenoanaerobacterium,genus,15,262,596767,541000
+Negativicoccus succinicivorans,species,7,122,620903,909928
+Alistipes indistinctus,species,2,34,626932,239759
+Odoribacter laneus,species,59,1030,626933,283168
+Phascolarctobacterium succinatutens,species,540,9432,626940,33024
+Porphyromonas sp. 2026,species,2,34,631030,836
+Pyramidobacter,genus,2,34,638847,649777
+Slackia sp. NATTS,species,13,227,647703,84108
+Synergistia,class,12,209,649775,508458
+Synergistales,order,12,209,649776,649775
+Synergistaceae,family,12,209,649777,649776
+Alistipes sp. RMA 9912,species,72,1257,650643,239759
+Corynebacterium canis,species,143,2497,679663,1716
+Blautia sp. Ser8,species,216,3773,689777,572511
+Bilophila sp. 4_1_30,species,104,1816,693988,35832
+Streptococcus sp. oral taxon G59,species,17,296,712699,1301
+Caldicoprobacteraceae,family,7,122,715221,186802
+Lactobacillus sp. TAB-30,species,12,209,753940,1578
+Bacteroides stercorirosoris,species,7,122,871324,816
+Blautia stercoris,species,2,34,871664,572511
+Blautia faecis,species,70,1222,871665,572511
+Alistipes sp. HGB5,species,52,908,908612,239759
+Negativicoccus,genus,7,122,909928,31977
+Selenomonadales,order,754,13170,909929,909932
+Acidaminococcaceae,family,690,12052,909930,909929
+Negativicutes,class,754,13170,909932,1239
+Eggerthella sp. HGA1,species,27,471,910311,84111
+Bacteroides sp. SLC1-38,species,1074,18760,925962,816
+Actinomyces sp. ICM54,species,4,69,936549,1654
+Streptococcus sp. BS35a,species,31,541,936579,1301
+Anaerococcus sp. 8404299,species,43,751,938290,165779
+Anaerococcus sp. 9402080,species,7,122,938293,165779
+Flavonifractor,genus,117,2043,946234,186813
+Enterobacter sp. BS2-1,species,14,244,994321,547
+Sutterellaceae,family,84,1467,995019,80840
+Pseudoflavonifractor,genus,1292,22568,1017280,186813
+Coprobacter fastidiosus,species,91,1589,1099853,1348911
+Megasphaera sp. BV3C16-1,species,11,192,1111454,906
+Blautia sp. YHC-4,species,329,5746,1157314,572511
+Murdochiella,genus,210,3668,1161127,186804
+Cloacibacillus porcorum,species,8,139,1197717,508459
+Phascolarctobacterium sp. 377,species,143,2497,1217279,33024
+Parabacteroides sp. 157,species,112,1956,1217282,375288
+Sutterella sp. 252,species,9,157,1248467,40544
+Roseburia sp. 499,species,1185,20699,1261634,841
+Anaerostipes sp. 494a,species,125,2183,1261636,207244
+Intestinimonas butyriciproducens,species,7,122,1297617,1392389
+Finegoldia sp. S9 AA1-5,species,134,2340,1344331,150022
+Coprobacter,genus,93,1624,1348911,171551
+Intestinimonas,genus,355,6201,1392389,186813
+Fusicatenibacter,genus,410,7161,1407607,186803
+Eisenbergiella,genus,39,681,1432051,186803
+Eisenbergiella tayi,species,39,681,1432052,1432051
+Candidatus Stoquefichus,genus,76,1327,1470349,128827
+Candidatus Soleaferrea,genus,9,157,1470353,541000
+Butyricimonas sp. JCM 18676,species,106,1851,1472416,574697
+Butyricimonas sp. JCM 18677,species,255,4454,1472417,574697
+Alistipes sp. 627,species,18,314,1501391,239759
+Terrisporobacter,genus,154,2690,1505652,186804
+Intestinibacter,genus,262,4576,1505657,186804
+Erysipelatoclostridium,genus,584,10201,1505663,128827
